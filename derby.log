@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 09 02:23:13 EST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0186-c540-a399-00000e202c68 
+on database directory C:\Users\vivek\OneDrive - The University of Western Ontario\University\2nd Year\SE 2203\labs\6\TennisBallGames\TeamDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@533ddba 
+Loaded from file:/C:/Users/vivek/OneDrive%20-%20The%20University%20of%20Western%20Ontario/University/2nd%20Year/SE%202203/labs/6/TennisBallGames/src/main/resources/Lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=C:\Users\vivek\OneDrive - The University of Western Ontario\University\2nd Year\SE 2203\labs\6\TennisBallGames
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
