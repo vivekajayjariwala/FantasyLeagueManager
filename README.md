@@ -1,4 +1,4 @@
 # FantasyLeagueManager
-Built a fantasy league management application that allows users to input sports teams, games, and scores for their fantasy league and track winning teams on a leaderboard. 
+Built a full stack application that allows fantasy league players to record and manage information regarding  teams, win/loss/tie records, games, scores, and leaderboards.
 
 Access the demo video here: https://youtu.be/AGVLh1lgr00
