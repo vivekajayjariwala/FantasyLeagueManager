@@ -10,7 +10,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author Abdelkader Ouda
+ * @author Vivek Jariwala
  */
 public class TeamsAdapter {
 
