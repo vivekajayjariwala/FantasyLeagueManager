@@ -9,7 +9,7 @@ import java.util.ResourceBundle;
 
 /**
  *
- * @author Abdelkader Ouda
+ * @author Vivek Jariwala
  */
 public class AlertController implements Initializable {
 
