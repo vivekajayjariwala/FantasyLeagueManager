@@ -20,7 +20,7 @@ import java.util.ResourceBundle;
 
 /**
  *
- * @author Abdelkader Ouda
+ * @author Vivek Jariwala
  */
 public class TeamsStandingsController implements Initializable {
 
