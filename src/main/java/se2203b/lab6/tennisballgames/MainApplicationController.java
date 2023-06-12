@@ -18,7 +18,7 @@ import java.sql.SQLException;
 import java.util.ResourceBundle;
 /**
  *
- * @author Abdelkader Ouda
+ * @author Vivek Jariwala
  */
 public class MainApplicationController implements Initializable {
 
