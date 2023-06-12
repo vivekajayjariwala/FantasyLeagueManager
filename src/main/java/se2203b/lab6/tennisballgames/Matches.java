@@ -7,7 +7,7 @@ import javafx.beans.property.StringProperty;
 
 /**
  *
- * @author Abdelkader Ouda
+ * @author Vivek Jariwala
  */
 public class Matches {
     private final IntegerProperty  matchNumber;
