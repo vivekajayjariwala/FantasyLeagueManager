@@ -6,7 +6,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Abdelkader Ouda
+ * @author Vivek Jariwala
  */
 public class AboutController  {
 
